@@ -50,16 +50,27 @@ Durante o treinamento e validação, foram gerados gráficos para:
 ## Resultados
 O modelo foi avaliado no conjunto de teste, atingindo uma acurácia de aproximadamente 75% e um F1 Score médio de aproximadamente 0.74, o que indica uma performance razoável considerando a simplicidade da arquitetura. A matriz de confusão revelou que o modelo teve mais dificuldades em distinguir entre classes com características visuais similares, como gatos e cães.
 * Resultados durante o treinamento:
+
+  
 ![image](https://github.com/user-attachments/assets/c8df8727-03f3-42a3-9f99-d05dbda71677)
+
 ![image](https://github.com/user-attachments/assets/1a35a3fb-232d-40ac-b39b-a24bb8cea7ef)
+
 ![image](https://github.com/user-attachments/assets/5f745491-a0f9-4d28-82e3-85a912d5f950)
+
 ![image](https://github.com/user-attachments/assets/7d5c9241-66b0-4c0e-9ed3-cd244cda19b1)
+
 
   
 * Resultados durante a predição:
+
+
 ![image](https://github.com/user-attachments/assets/b1ee7356-e9ae-432a-96b2-eb9c8e8d1993)
+
 ![image](https://github.com/user-attachments/assets/da464a58-4eb1-43fe-83b3-971e306cd459)
+
 ![image](https://github.com/user-attachments/assets/78ea3906-dfd7-426e-a573-bfdb32602874)
+
 ![image](https://github.com/user-attachments/assets/fd96e74a-2a49-4325-8890-12b82a3fd183)
 
 
